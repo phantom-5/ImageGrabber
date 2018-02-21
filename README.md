@@ -12,3 +12,6 @@
 5. Press 2 : to stop
 
 Doesnt require python to be preinstalled.
+
+
+Screenshots : https://github.com/phantom-5/ImageGrabber/wiki
