@@ -10,3 +10,4 @@
 4. Repeat 3 for more images
 5. Press 2 : to stop
 
+Doesnt require python to be preinstalled.
