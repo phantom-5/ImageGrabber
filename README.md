@@ -1,6 +1,7 @@
 ## ImageGrabber
 
-# Windows executable python script to download images . Beginner Project
+# Windows executable python script to download images . 
+## Beginner Project
 
 # How To use ?
 
